@@ -77,4 +77,5 @@ ascii-art-generator/
 ## Final Note
 This is just a fun project I decided to create a day before my Web Technology Final Exam. Also took the help of claude to refine the mechanics...
 
-- kc
+
+---kc
